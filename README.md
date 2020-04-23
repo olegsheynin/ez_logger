@@ -1,2 +1,2 @@
 # ez_logger
-Straightforward logging in rust
+Straightforward logging in Rust
